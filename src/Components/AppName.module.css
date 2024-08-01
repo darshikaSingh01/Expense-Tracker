@@ -1,0 +1,19 @@
+button{
+  float: right;
+  margin-right: 20px;
+}
+
+
+
+.mainHeading {
+  margin-top: 30px;
+  
+}
+
+.heading {
+  font-size: 50px;
+  color: #201E43;
+}
+.tagLine {
+  color: #134B70;
+}

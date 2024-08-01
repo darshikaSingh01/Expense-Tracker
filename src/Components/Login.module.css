@@ -1,0 +1,50 @@
+.logInContainer {
+  text-align: center;
+  background-color: white;
+  border: 2px solid black;
+  margin-inline: auto;
+  width: 35%;
+  margin-top: 100px;
+  border-radius: 15px;
+  padding: 40px;
+  
+  
+}
+
+.logInForm {
+  text-align: left;
+ 
+  
+}
+.logInHeading {
+  margin-top: 10px;
+}
+
+.formInputs {
+  margin-top: 30px;
+  margin-bottom: 2px;
+  width: 100%;
+  height: 2rem;
+  border: 1px solid grey;
+  border-radius: 5px;
+  margin-inline: auto;
+}
+
+
+.logInBtn {
+  margin-top: 20px;
+  margin-right: 42%;
+}
+
+.registerHere {
+  margin-top: 100px;
+  display: flex;
+  justify-content: center;
+}
+.registerHere p {
+  color: rgb(127, 120, 120);
+}
+
+.registerHere a {
+  color: black;
+}

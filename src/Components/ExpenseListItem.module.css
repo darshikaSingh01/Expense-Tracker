@@ -1,0 +1,11 @@
+.rows {
+    margin-bottom: 5px;
+    margin-top: 5px;
+    line-height: 2.3rem;
+    
+}
+.rows:nth-child(even) {
+  
+    background-color: #d8cbcb;
+  
+}

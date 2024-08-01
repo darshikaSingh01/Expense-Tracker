@@ -1,0 +1,31 @@
+.form {
+  border: 2px solid black;
+    width: 50%;
+    border-radius: 20px;
+    padding-top: 30px;
+    text-align: left;
+    padding-left: 30px;
+    font-size: 20px;
+    color: #508C9B;
+    padding-bottom: 100px;
+}
+
+input, textarea {
+  margin-left: 30px;
+  margin-top: 20px;
+  padding: 2px;
+  border: 1px solid #201E43;
+  border-radius: 10px;
+}
+
+
+
+.addBtn {
+ margin-right: 560px;
+ margin-top: 30px;
+}
+
+.heading {
+  color: #134B70;
+  margin-top: 10px;
+}
